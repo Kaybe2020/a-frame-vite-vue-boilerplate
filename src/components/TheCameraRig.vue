@@ -19,16 +19,25 @@
         simple-navmesh-constraint="navmesh: [data-role='nav-mesh']; height: 1.65;"
         disable-in-vr="component: simple-navmesh-constraint;"
         camera
-        position="0 1.65 0"
+        position="-60 1.65 -66"
+        rotation="0 90 0"
       >
         <a-entity
           geometry="primitive: circle; radius: 0.0003;"
           material="shader: flat; color: white;"
           cursor
-          raycaster="far: 4; objects: [clickable]; showLine: false;"
+          raycaster="far: 40; objects: [clickable]; showLine: false;"
           position="0 0 -0.1"
           disable-in-vr="component: raycaster; disableInAR: false;"
           hide-in-vr="hideInAR: false"
+        ></a-entity>
+        <a-entity
+          id="dummy-hand-right"
+          position="0.3 -0.4 -0.5"
+        ></a-entity>
+        <a-entity
+          id="dummy-hand-left"
+          position="-0.3 -0.4 -0.5"
         ></a-entity>
       </a-entity>
 
@@ -41,6 +50,7 @@
           collisionEntities: [data-role='nav-mesh'];
           snapTurn: false;
         "
+        position="0 1.5 0"
         physx-grab
       >
         <a-sphere id="hand-left-collider"
@@ -54,7 +64,8 @@
         id="hand-right"
         hand-controls="hand: right"
         laser-controls="hand: right"
-        raycaster="far: 4; objects: [clickable]; showLine: true;"
+        raycaster="far: 40; objects: [clickable]; showLine: true;"
+        position="0 1.5 0"
         physx-grab
       >
         <a-sphere id="hand-right-collider"

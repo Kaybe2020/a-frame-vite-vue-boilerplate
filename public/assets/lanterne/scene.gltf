@@ -1,0 +1,649 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        1555.80712890625,
+        1555.80712890625,
+        2447.5
+      ],
+      "min": [
+        -1555.80712890625,
+        -1555.80712890625,
+        429.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5808,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        1.0,
+        1.2347753681751783e-06,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.234775481862016e-06,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        1.0,
+        1.2709650993347168
+      ],
+      "min": [
+        0.0,
+        -0.270965039730072
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3872,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1152,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11616,
+      "componentType": 5126,
+      "count": 2912,
+      "max": [
+        3240.03271484375,
+        3045.513671875,
+        11591.8955078125
+      ],
+      "min": [
+        -3176.40283203125,
+        -3294.5673828125,
+        -1079.4088134765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46560,
+      "componentType": 5126,
+      "count": 2912,
+      "max": [
+        0.9999944567680359,
+        0.9999960660934448,
+        0.9999891519546509
+      ],
+      "min": [
+        -0.9999958872795105,
+        -0.9999951720237732,
+        -0.9999979138374329
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 7744,
+      "componentType": 5126,
+      "count": 2912,
+      "max": [
+        1.0,
+        1.0,
+        0.8557230234146118,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9939261674880981,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7744,
+      "componentType": 5126,
+      "count": 2912,
+      "max": [
+        0.9999999403953552,
+        1.4955254793167114
+      ],
+      "min": [
+        5.960464477539063e-08,
+        -0.563829779624939
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31040,
+      "componentType": 5126,
+      "count": 2912,
+      "max": [
+        1.0049583911895752,
+        0.9803587794303894
+      ],
+      "min": [
+        0.004958361387252808,
+        -0.019641220569610596
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4608,
+      "componentType": 5125,
+      "count": 12522,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 81504,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        1500.0,
+        1500.0,
+        2329.35205078125
+      ],
+      "min": [
+        -1500.0,
+        -1500.0,
+        547.6481323242188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 82272,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 54336,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 54336,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.8333333730697632,
+        0.8333333730697632
+      ],
+      "min": [
+        0.1666666716337204,
+        0.1666666716337204
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 54848,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.8333333730697632,
+        0.8333333730697632
+      ],
+      "min": [
+        0.1666666716337204,
+        0.1666666716337204
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 54696,
+      "componentType": 5125,
+      "count": 96,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "geoxstudio (https://sketchfab.com/geoxstudio)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/japanese-stone-lantern-908a453743f34eddb27d5152ff3e2583",
+      "title": "Japanese Stone Lantern"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 55080,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55360,
+      "byteOffset": 55080,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 83040,
+      "byteOffset": 110440,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55360,
+      "byteOffset": 193480,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 248840,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Madeira_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Madeira_normal.png"
+    },
+    {
+      "uri": "textures/Pedra_Lanterna_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Pedra_Lanterna_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Madeira",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6273993883345798
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Pedra_Lanterna",
+      "normalTexture": {
+        "index": 1,
+        "scale": 0.37260061166542024
+      },
+      "occlusionTexture": {
+        "index": 3,
+        "strength": 0.4881239017687224
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.06251178033550396,
+        "metallicRoughnessTexture": {
+          "index": 3
+        },
+        "roughnessFactor": 0.5002842480953857
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        0.48532499653686695
+      ],
+      "name": "led_Falloff",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.24491697523545472,
+          0.24491697523545472,
+          0.24491697523545472,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.5671661528920344,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Frame_Madeira_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lamp_Pedra Lanterna_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Emitter_led Falloff_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2b598061cba247eea0257a6115723957.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "matrix": [
+        -0.007071069516459721,
+        5.551114999048691e-19,
+        -0.0070710657911693744,
+        0.0,
+        -0.0070710657911693744,
+        0.0,
+        0.007071069516459721,
+        0.0,
+        5.551114999048691e-19,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.7817018628120422,
+        0.1407928466796875,
+        15.39008903503418,
+        1.0
+      ],
+      "name": "Stone Lantern"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.9999999999999982,
+        5.9604637558940965e-08,
+        6.162975822039155e-33,
+        0.0,
+        -5.9604637558940965e-08,
+        0.9999999999999982,
+        0.0,
+        0.0,
+        -6.162975822039144e-33,
+        -3.6734194015716007e-40,
+        1.0,
+        0.0,
+        130.8502197265625,
+        -234.9857177734375,
+        7431.1845703125,
+        1.0
+      ],
+      "name": "Frame"
+    },
+    {
+      "mesh": 0,
+      "name": "Frame_Madeira_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.9999999999999982,
+        5.9604637558940965e-08,
+        6.162975822039155e-33,
+        0.0,
+        -5.9604637558940965e-08,
+        0.9999999999999982,
+        0.0,
+        0.0,
+        -6.162975822039144e-33,
+        -3.6734194015716007e-40,
+        1.0,
+        0.0,
+        71.240234375,
+        -183.5208740234375,
+        988.11865234375,
+        1.0
+      ],
+      "name": "Lamp"
+    },
+    {
+      "mesh": 1,
+      "name": "Lamp_Pedra Lanterna_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.9999999999999982,
+        5.960464460885717e-08,
+        6.162975822039155e-33,
+        0.0,
+        -5.960464460885717e-08,
+        0.9999999999999982,
+        -6.162975822039155e-33,
+        0.0,
+        -6.162976189381128e-33,
+        6.1629754546971605e-33,
+        1.0,
+        0.0,
+        130.85009765625,
+        -234.98565673828125,
+        7431.1845703125,
+        1.0
+      ],
+      "name": "Emitter"
+    },
+    {
+      "mesh": 2,
+      "name": "Emitter_led Falloff_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
