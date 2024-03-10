@@ -3,11 +3,12 @@
   import TheCameraRig from './TheCameraRig.vue';
   import TheJapaneseScene from './TheJapaneseScene.vue';
    
+  
   defineProps({
     scale: Number,
     overlaySelector: String,
   });
-test
+
   const allAssetsLoaded = ref(false);
 </script>
 
