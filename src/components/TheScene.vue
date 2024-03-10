@@ -29,7 +29,7 @@
       wasmUrl: lib/physx.release.wasm;
     "
     _fog="color: #88bee7; near: 4; far: 25"
-    stats
+    _stats
   >
 
     <a-assets @loaded="allAssetsLoaded = true">
