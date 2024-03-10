@@ -49,6 +49,7 @@
             </p>
       </section>
         <dl>
+          <dt>This game was made by Karen Bonfils.</dt><br>
           <dt>
             <i>Included</i>
           </dt>
