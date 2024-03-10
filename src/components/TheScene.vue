@@ -7,7 +7,7 @@
     scale: Number,
     overlaySelector: String,
   });
-
+test
   const allAssetsLoaded = ref(false);
 </script>
 

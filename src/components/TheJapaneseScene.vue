@@ -7,7 +7,7 @@
   import "../aframe/bind-rotation.js";
 
 
-
+test
   let activeColor= '';
   let activeColorBrush = ref('');
 
